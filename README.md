@@ -4,4 +4,5 @@
 
 
 -Run the weather_tim and weatherbg in Pi and update the code with your Firebase credentials and secret Web-API Key.
+
 -final.apk can be installed directly in an android OS.
