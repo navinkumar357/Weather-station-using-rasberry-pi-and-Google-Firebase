@@ -7,7 +7,7 @@ from datetime import date
 from threading import Timer
 import calendar
 
-firebase = firebase.FirebaseApplication('https://weather-station-13bc2.firebaseio.com/', None)
+firebase = firebase.FirebaseApplication('https://weather-station-13bc2.firebaseio.com/', None) #Real-time database.
 
 OFFSET_LEFT = 1
 OFFSET_TOP = 2
