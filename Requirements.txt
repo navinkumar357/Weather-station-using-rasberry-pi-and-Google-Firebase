@@ -1,0 +1,3 @@
+1. Raspberry Pi 3 with Sense-Hat add on.
+2. A Google Firebase account (there are plans available for free).
+3. A mobile phone that runs Android OS.
